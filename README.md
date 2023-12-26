@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
+In the course of acquiring coding skills, I successfully executed a project entailing the creation of a fundamental Spotify clone employing HTML, CSS, and JavaScript. This project serves as a demonstration of my proficiency in front-end web development. The resultant web application is both responsive and user-friendly, providing users with the capability to play music. Design and styling of the interface were achieved through HTML and CSS, while JavaScript was utilized to manage user input and interactions, encompassing essential playback controls such as play, pause, and next. Additionally, this project afforded me valuable experience in utilizing version control tools like Git and GitHub. This documentation serves to provide insights into the development process and features implemented.
 
 
 ## Tech-Stack-
@@ -13,23 +13,12 @@ As part of learning to code,I completed a project that involved creating a basic
 
 ## Features-
 
-- Play/Pause: Allows the user to start or pause the playback of the currently selected track.
-- Next/Previous: Enables the user to skip to the next or previous track in the playlist or album.
-- Seek: Allows the user to manually move forward or backward within a track by dragging a slider or clicking on a progress bar.
-- Display the currently playing song and album artwork.
+- Play/Pause: Grants users the ability to initiate or halt playback for the presently chosen track.
+- Next/Previous: Empowers users to navigate to the subsequent or preceding track within the playlist or album.
+- Seek: Permits users to manually advance or rewind within a track by dragging a slider or clicking on a progress bar.
+- Display the presently playing song and album artwork..
 
 ## Usage-
 
-Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
+After opening the Spotify clone in your browser, initiate playback by clicking the play button next to the desired song. Utilize the playback controls located at the bottom of the page to manage the playback. The 'Now Playing' section at the bottom of the page showcases information about the currently playing song and its associated album artwork.
 
-## Live-Demo-
-
-[Spotify-Clone-Live](https://spotify-clone-javascript.netlify.app/)
-
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
-
-
-## Screenshot-
-
-![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
